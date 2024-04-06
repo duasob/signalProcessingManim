@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bruno/OneDrive - Imperial College London/Pers/Portfolio/SignalProcessingManim/signalProcessingManim/media/videos/anim/480p15/partial_movie_files/SquareToCircle/1185818338_1394511312_223132457.mp4'
+file 'file:C:/Users/bruno/OneDrive - Imperial College London/Pers/Portfolio/SignalProcessingManim/signalProcessingManim/media/videos/anim/480p15/partial_movie_files/SquareToCircle/624642324_3890345977_2652558550.mp4'
+file 'file:C:/Users/bruno/OneDrive - Imperial College London/Pers/Portfolio/SignalProcessingManim/signalProcessingManim/media/videos/anim/480p15/partial_movie_files/SquareToCircle/624642324_1421886394_842534596.mp4'
+file 'file:C:/Users/bruno/OneDrive - Imperial College London/Pers/Portfolio/SignalProcessingManim/signalProcessingManim/media/videos/anim/480p15/partial_movie_files/SquareToCircle/624642324_3890345977_88632452.mp4'
